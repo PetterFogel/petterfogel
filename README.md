@@ -2,6 +2,32 @@
 
 ## I am a Front End Developer with passion for design and creative solutions.
 
+# What I've worked with:
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- Express
+- Material UI
+
+In progress: 
+- C#
+- .Net Core
+
+Other: 
+-  Agile Work
+-  Git
+-  Figma
+-  Azure DevOps
+-  Trello
+-  Jiro
+-  Heroku
+-  MySql
+-  Illustrator
+
 Personal website: https://petter-fogel.se/
 
 <!--
