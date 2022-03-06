@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-## I am a Front End Developer with passion for design and creative solutions.
+# I am a Front End Developer with passion for design and creative solutions.
+
+Personal website: https://petter-fogel.se/
 
 <!--
 **PetterFogel/petterfogel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
