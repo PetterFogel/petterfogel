@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-# I am a Front End Developer with passion for design and creative solutions.
+## I am a Front End Developer with passion for design and creative solutions.
 
 Personal website: https://petter-fogel.se/
 
