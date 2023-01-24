@@ -2,7 +2,7 @@
 
 ## I am a Front End Developer with passion for design and creative solutions.
 
-### Portfolio: https://petter-fogel.se/
+### Portfolio: [https://petter-fogel.se/](https://petterfogel.netlify.app/)
 
 # What I've worked with:
 
